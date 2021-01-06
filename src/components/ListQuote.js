@@ -67,7 +67,7 @@ function ListQuote(props){
       :<Modal.Description>
         <Form>
         <Form.Input 
-            placeholder='Quote price'
+            placeholder='Add price in ETH'
             name='price'
             value={ipData.price}
             onChange={handleChange} /> 
