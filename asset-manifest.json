@@ -1,14 +1,14 @@
 {
-  "main.js": "/quotefactory/static/js/main.a6384f36.chunk.js",
-  "main.js.map": "/quotefactory/static/js/main.a6384f36.chunk.js.map",
+  "main.js": "/quotefactory/static/js/main.d8f51aa2.chunk.js",
+  "main.js.map": "/quotefactory/static/js/main.d8f51aa2.chunk.js.map",
   "static/css/1.6440154a.chunk.css": "/quotefactory/static/css/1.6440154a.chunk.css",
-  "static/js/1.82fc2859.chunk.js": "/quotefactory/static/js/1.82fc2859.chunk.js",
-  "static/js/1.82fc2859.chunk.js.map": "/quotefactory/static/js/1.82fc2859.chunk.js.map",
+  "static/js/1.557b8c22.chunk.js": "/quotefactory/static/js/1.557b8c22.chunk.js",
+  "static/js/1.557b8c22.chunk.js.map": "/quotefactory/static/js/1.557b8c22.chunk.js.map",
   "runtime~main.js": "/quotefactory/static/js/runtime~main.395792c0.js",
   "runtime~main.js.map": "/quotefactory/static/js/runtime~main.395792c0.js.map",
   "static/media/semantic.min.css": "/quotefactory/static/media/brand-icons.a1a749e8.svg",
   "static/css/1.6440154a.chunk.css.map": "/quotefactory/static/css/1.6440154a.chunk.css.map",
   "index.html": "/quotefactory/index.html",
-  "precache-manifest.2d6736c3f27ae650db13b24a4cd8299d.js": "/quotefactory/precache-manifest.2d6736c3f27ae650db13b24a4cd8299d.js",
+  "precache-manifest.49f71c5ac59cbf760dd312607330d56d.js": "/quotefactory/precache-manifest.49f71c5ac59cbf760dd312607330d56d.js",
   "service-worker.js": "/quotefactory/service-worker.js"
 }
