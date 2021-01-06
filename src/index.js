@@ -5,7 +5,7 @@ import App from './components/App';
 import { HashRouter } from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<HashRouter basename="/quotefactory/">
+ReactDOM.render(<HashRouter>
                 <App />
                 </HashRouter>, 
                 document.getElementById('root'));
