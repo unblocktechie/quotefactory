@@ -61,7 +61,7 @@ function ListQuote(props){
                   <Message.Header>Quote successfully listed for sell</Message.Header>
                   <p>
                     Your Quote Purchase Link : 
-                    <NavLink to={"https://unblocktechie.github.io/quotefactory/purchase?id=".concat(props.id)}>"/purchase?id={props.id}"</NavLink>
+                    <NavLink to={"/quotefactory/purchase?id=".concat(props.id)}>"/purchase?id={props.id}"</NavLink>
                   </p>
               </Message> 
       :<Modal.Description>
