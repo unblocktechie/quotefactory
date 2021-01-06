@@ -32,7 +32,6 @@ function Home(){
 
     async function loadBlockchainData(){
       const web3 = window.web3;
-      setLoading(true);
       web3.eth.getAccounts()
         .then(res=>{
             setAccount(res[0]);
@@ -60,11 +59,9 @@ function Home(){
                     return [...prevquote, {name:qt,id:_id,price:amount,listed:td.forSell}];
                   });   
               }
-              setLoading(false);
             }
           } else {
             window.alert('Smart contract not deployed to detected network.');
-            setLoading(false);
           }   
     } 
     
@@ -99,7 +96,7 @@ function Home(){
         </Segment>
         {loadind?<Loader active inline='centered' />:
         <Segment basic textAlign="center">
-        {(quote.length===0)&&<p>No quotes yet!</p>}
+        {(quote.length===0)&&<p>Loading Quotes...</p>}
           <Masonry
           breakpointCols={breakpointColumnsObj}
           className="my-masonry-grid"
