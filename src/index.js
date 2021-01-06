@@ -5,6 +5,9 @@ import App from './components/App';
 import { BrowserRouter } from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<BrowserRouter><App /></BrowserRouter>, document.getElementById('root'));
+ReactDOM.render(<BrowserRouter basename="https://github.com/unblocktechie/quotefactory">
+                <App />
+                </BrowserRouter>, 
+                document.getElementById('root'));
 
 serviceWorker.unregister();
