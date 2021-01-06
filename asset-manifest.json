@@ -1,6 +1,6 @@
 {
-  "main.js": "/quotefactory/static/js/main.434a4a94.chunk.js",
-  "main.js.map": "/quotefactory/static/js/main.434a4a94.chunk.js.map",
+  "main.js": "/quotefactory/static/js/main.bd874761.chunk.js",
+  "main.js.map": "/quotefactory/static/js/main.bd874761.chunk.js.map",
   "static/css/1.6440154a.chunk.css": "/quotefactory/static/css/1.6440154a.chunk.css",
   "static/js/1.82fc2859.chunk.js": "/quotefactory/static/js/1.82fc2859.chunk.js",
   "static/js/1.82fc2859.chunk.js.map": "/quotefactory/static/js/1.82fc2859.chunk.js.map",
@@ -9,6 +9,6 @@
   "static/media/semantic.min.css": "/quotefactory/static/media/brand-icons.a1a749e8.svg",
   "static/css/1.6440154a.chunk.css.map": "/quotefactory/static/css/1.6440154a.chunk.css.map",
   "index.html": "/quotefactory/index.html",
-  "precache-manifest.f7c45e563ab22117b760e18223628dbf.js": "/quotefactory/precache-manifest.f7c45e563ab22117b760e18223628dbf.js",
+  "precache-manifest.c43efe664dc8bcdece17bd3212e6f77c.js": "/quotefactory/precache-manifest.c43efe664dc8bcdece17bd3212e6f77c.js",
   "service-worker.js": "/quotefactory/service-worker.js"
 }
