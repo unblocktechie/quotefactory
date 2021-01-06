@@ -66,7 +66,7 @@ function Purchase(props){
         const etherAmount = window.web3.utils.toWei(_price, 'Ether');
         trade.methods.buyQuote(_id).send({value:etherAmount , from:account})
         .on('confirmation', (confirmation) => {
-          window.location.assign("/mint");
+          window.location.assign("/quotefactory/#/mint");
           setLoading(false);
         })
         .on('error', (error) => {
